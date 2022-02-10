@@ -2,7 +2,7 @@
    Example 1 JavaScript code
 */
 
-//console.log("Asher's Output from Tutorial 4 Example 1");
+//console.log("Derek's Output from Tutorial 4 Example 1");
 
 let firstName = prompt("Please enter your first name: ");
 let numUnits = prompt("Enter the number of units completed (>= 0): ");
