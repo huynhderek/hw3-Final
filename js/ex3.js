@@ -1,8 +1,8 @@
 //Grab two whole numbers from user
 console.log("Derek's output for Problem 3");
 
-let num1 = Number(promopt("Enter the first whole number: "));
-let num2 = Number(promopt("Enter the second whole number: "));
+let num1 = Number(prompt("Enter the first whole number: "));
+let num2 = Number(prompt("Enter the second whole number: "));
 
 //Have output in form of addition, subtraction,
 //multiplication, division, and modulo
