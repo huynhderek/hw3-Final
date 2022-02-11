@@ -28,4 +28,4 @@ switch(dayEntered.toLowerCase()) {
       nextDay = "mon";
       break;
 }
-console.log('The following day is: '${nextDay}'.');
+console.log('The following day is: '${nextDay});
