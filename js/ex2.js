@@ -29,4 +29,3 @@ switch(dayEntered.toLowerCase()) {
       break;
 }
 console.log(`The following day is: '${nextDay}.`);
-}
